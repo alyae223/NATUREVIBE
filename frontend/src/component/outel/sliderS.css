@@ -1,0 +1,25 @@
+.sliderS{
+    position: relative;
+    height: 100%;
+    background: white;
+    margin: auto;
+    padding: auto;
+}
+swiper-container{
+    width: 100%;
+    height: 100%;
+}
+swiper-slide{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+swiper-slide img{
+    display: block;
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    -webkit-box-shadow:6px 0px 19px -3px black;
+    -moz-shadow:6px 0px 19px -3px black ;
+}

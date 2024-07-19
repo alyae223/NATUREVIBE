@@ -1,0 +1,53 @@
+.App .titre{
+    /* background-image: url(https://i.pinimg.com/474x/7e/9a/8e/7e9a8eff7d7c2c161e3cce6e1a4b942c.jpg); */
+    text-align: center;
+    font-size: 50px;
+    background-image: url(C:\Users\ALIA\Desktop\VIBENATURE1\projet\frontend\src\component\pages\back1.jpg);
+    height: 280px;
+    padding-top: -100px;
+  }
+  .titre1{
+    background-image: url(C:\Users\ALIA\Desktop\VIBENATURE1\projet\frontend\src\component\pages\image6.JPG);
+    border: solid 1px black;
+    height: 310px;
+    width: 1000px;
+    margin-left: 80px;
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-top: 180px;
+    
+  }
+  .titre h1{
+    text-align: center;
+    margin-top: 170px;
+    font-size: 50px;
+  }
+  /* .blog{
+    text-align: center;
+    margin-top: 100px;
+    /* display: inline-block; */
+  /* }
+  .blog .h1{
+    text-align: center;
+  } */
+  .blog {
+    display: inline-block;
+    margin-top: 100px;
+    border-radius: 20%;
+    justify-content: space-around;
+    margin-left: 20px;
+    border-radius: 30%;
+    margin-right: 20px;
+  
+  }
+  .blog img{
+    border-radius: 20px;
+  
+  }
+  .blog .h1{
+    width: 380px;
+    text-align: center;
+  }
+  
+  
+  

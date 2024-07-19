@@ -1,0 +1,88 @@
+.input-group-prepend {
+  width: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  padding-left: 20px;
+  padding-top: 10px;
+  border: 1px solid #ccc;
+  border-right: none;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  color: rgb(230, 55, 55);
+  background: white;
+}
+
+.input-group-prepend span {
+  width: 100%;
+  height: 100%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-control {
+  padding: 0.5rem 0.5rem;
+  border: 1px solid #ccc;
+  border-left: none;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  width: 100%; 
+}
+
+.form-control:focus {
+  width: 100px;
+}
+
+.input-group {
+  width: 100%;
+}
+
+.User {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid  url('C:\Users\ALIA\Desktop\VIBENATURE1\projet\frontend\public\bac.JPG');
+  border-radius: 50px;
+  width: 300px;
+  height: 500px;
+  margin: 0 auto; 
+  background-image: url('C:\Users\ALIA\Desktop\VIBENATURE1\projet\frontend\public\bac.JPG');
+  background-size: cover;
+  
+}
+
+.btn12 {
+  border: 1px solid rgb(70, 7, 7);
+  border-radius: 50px;
+  background-color: rgb(218, 73, 73);
+  color: white;
+  width: 200px;
+  margin: 20px; 
+  
+  height: 40px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn1:hover {
+  background-color: white;
+  color: black;
+}
+
+#text {
+  font-size: large;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}
+.bac{
+  background-image: url('C:\Users\ALIA\Desktop\VIBENATURE1\projet\frontend\public\bac.JPG');
+  height: 500px;
+  background-size: cover;
+
+}
+#imageL1{
+  margin-top: -150px;
+}

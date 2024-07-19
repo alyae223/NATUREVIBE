@@ -1,0 +1,43 @@
+.b2{
+    text-align: center;
+    margin-top: 150px;
+    background-image: url(C:\Users\ALIA\Desktop\VIBENATURE1\projet\frontend\src\component\pages\back1.jpg);
+    height: 220px;
+    width: 1300px;
+    padding-top: 140px;
+}
+.img1{ 
+    width: 90%;
+    
+    margin-left: 60px;
+    margin-top: 150px;
+}
+.tit1{
+    margin-left: 70px;
+    margin-top: 90px;
+}
+.h4{
+    border: 1px solid antiquewhite;
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 50px;
+    width: 700px;
+    height: 100px;
+    margin-left: 230px;
+    border-radius: 30px;
+    margin-top: 70px;
+    
+}
+.h5{
+    margin-top: 50px;
+}
+.image{
+    text-align: center;
+}
+.image img{
+    margin-left: 40px;
+}
+.h6{
+    margin-top: 90px;
+    margin-left: 90px;
+}

@@ -1,0 +1,74 @@
+.all li{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 100px;
+    top: -260px;
+    margin-left: 20px;
+
+  }
+  
+  .iamge1 {
+    display: flex;
+    overflow-x: auto; 
+  }
+  #vid{
+    position: relative;
+    left: -30px;
+    width: max-content;
+    
+  }
+  #imaa{
+      width: 100px; 
+    height: 100px; 
+    border-radius: 100%;
+    object-fit: cover; 
+    margin-right: 10px; 
+    margin-top: 50px;
+  }
+  
+
+.h1{
+  font-size: larger;
+  position: relative;
+  left: 19px;
+}
+#vid2{
+  position: relative;
+  left: 75rem;
+  margin-top: -780px;
+}
+#vid1{
+  margin-top: 5px;
+  margin-left: 40px;
+  
+}
+.product{
+  position: relative;
+  left: -20px;
+  top: 0px;
+   
+  
+}
+.product img{
+  
+}
+  #V1{
+    font-size: xx-large;
+  }
+  #vid2{
+    width: 100%;
+    margin-top: -680PX;
+    margin-left: -100PX;
+  }
+ #img6{
+  width: 700PX;
+  height:350PX ;
+  margin-left: 300PX;
+  margin-top: -370PX;
+ }
+ .Home{
+  margin-top:-10px;
+ }
+ 

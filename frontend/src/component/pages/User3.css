@@ -1,0 +1,50 @@
+.user-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .welcome-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .welcome-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .link {
+    color: #007bff;
+  }
+  
+  .recommendation-heading {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .recommendations {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .recommendations li {
+    margin-bottom: 5px;
+  }
+  
+  .logout-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .logout-button:hover {
+    background-color: #c82333;
+  }
+  
