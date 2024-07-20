@@ -8,10 +8,10 @@
 1. Navigate to the `frontend` directory:
    ```bash
    cd frontend
-##Install the necessary dependencies:
+###Install the necessary dependencies:
  ```bash
-npm install
-# Run the project <br/>
+  npm install
+### Run the project <br/>
  ```bash
 npm run dev <br/>
 ###Screenshots <br/>
