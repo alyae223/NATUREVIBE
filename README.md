@@ -1,4 +1,4 @@
-An e-commerce cosmetics website using React.js and Laravel
-1- cd frontend
-2-npm install
-3-npm run dev
+An e-commerce cosmetics website using React.js and Laravel <br/>
+1- cd frontend<br/>
+2-npm install <br/>
+3-npm run dev <br/>
