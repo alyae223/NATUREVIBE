@@ -10,7 +10,8 @@
    cd frontend
  2-#Install the necessary dependencie:
   ```bash
-  npm install  ```
+  npm install
+  ```
  
  3.#Run the project:
  
