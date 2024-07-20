@@ -9,7 +9,7 @@
    ```bash
    cd frontend
  2-#Install the necessary dependencie:
-``bash
+  ```bash
   npm install  ```
  
  3.#Run the project:
