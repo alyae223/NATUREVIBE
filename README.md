@@ -12,6 +12,7 @@
 
     ```bash npm install
  3-Run the project:
+ 
  ```bash npm run dev
 
 ##Screenshots
