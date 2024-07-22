@@ -25,3 +25,7 @@
 2.Shop page 
 
 ![Shop page](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20à%2022.09.35_ee0ed03b.jpg)
+
+3.Login/Singup
+
+![Login/Singup](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20à%2022.09.35_ee0ed03b.jpg
