@@ -29,3 +29,10 @@
 3.Login/Singup
 
 ![Login/Singup](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20à%2022.09.35_4a2f7635.jpg)
+
+4.The account page 
+
+![the account](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20à%2022.09.35_de377935.jpg)
+
+5.The Cart page
+![The Cart page](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20à%2022.09.35_97ba3c74.jpg)
