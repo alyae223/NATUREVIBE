@@ -24,4 +24,4 @@
 
 2.Shop page 
 
-![Shop page](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp Image 2024-07-21 à 22.09.35_ee0ed03b.jpg)
+![Shop page](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20à%2022.09.35_ee0ed03b.jpg)
