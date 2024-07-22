@@ -22,4 +22,6 @@
 1.Homepage
 ![Home Page](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp%20Image%202024-07-21%20%C3%A0%2022.09.35_7be482c5.jpg)
 
-2.
+2.Shop page 
+
+![Shop page](https://raw.githubusercontent.com/alyae223/NATUREVIBE/main/WhatsApp Image 2024-07-21 à 22.09.35_ee0ed03b.jpg)
